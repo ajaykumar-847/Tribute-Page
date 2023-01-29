@@ -1,0 +1,114 @@
+header {
+    border-radius: 1rem 1rem 0 0;
+    align-items: center;
+    background-color: rgb(238, 238, 238);
+    margin-top: 0.6rem;
+    margin-bottom: 0; 
+    padding: 0;
+}
+
+main {
+    background-color: rgb(238, 238, 238);
+    border-radius: 0 0 1rem 1rem;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    margin:0;
+    padding:0;
+
+}
+
+figure {
+    margin-top: 0;
+}
+
+#content {
+    max-width: 700px;
+    margin: auto;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#heading {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 1rem;
+    height: 1rem;
+}
+
+#desc {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1rem;
+}
+
+
+#img-div {
+    background-color: white;
+    padding: 0.5rem 15% 0.8rem 15%;
+    margin: 0 0.6rem 0 0.6rem;
+}
+
+img {
+    display: block;
+    width: 100%;
+    border-radius: 2%;
+}
+
+#image {
+    max-width: 100%;
+}
+
+figcaption {
+    text-align: center;
+    font-family: sans-serif;
+    width: 100%;
+    font-size: 1.2em;
+    margin-top: 1rem;
+}
+
+#content>p {
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 1.1rem;
+}
+
+#tribute-info>li {
+    line-height: 1.5;
+    list-style-type: square;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+span {
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 1.1rem;
+}
+
+#quote {
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    max-width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+#name {
+    font-size: 1.5rem;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+}
+
+#tribute {
+    font-family: sans-serif;
+    margin-top: 2rem;
+    text-align: center;
+}
